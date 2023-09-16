@@ -1,0 +1,105 @@
+.headingpage1css{
+    border: 1px solid rgb(255, 110, 20);
+    background-color: rgb(255, 110, 20);
+width: 80%;
+    height: 11vh;
+}
+.imgpiccsshead{
+    width: 100%;
+}
+.page1csssecound{
+    border: 1rem solid rgb(207, 184, 158);
+    background-color:rgb(207, 184, 158) ;
+    width: 100%;
+    height: 38rem;
+}
+.formcssonpage1{
+    width: 60%;
+    border: 1px solid white;
+    height: 33rem;
+    margin-top: 2rem;
+    border-radius: 55px;
+    background-color: white;
+   margin-left: 7rem;
+   
+}
+.inputetype1css{
+    border: none;
+border-bottom:1px solid black;
+width: 90%;
+}
+.formcssonpage1css2{
+    margin: 5vh;
+}
+.hedingcssform1{
+    margin-left: 2rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    /* font-style: italic; */
+    
+}
+.inputetype1css::placeholder{
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 300;
+}
+.inputeh5css{
+    margin-top: 3vh;
+}
+.ArrowCircleRightIconcss{
+    color: white;
+    background-color:rgb(255, 110, 20) ;
+    margin-left: 2vh;
+}
+.buttoncsspage2{
+    background-color:rgb(255, 110, 20);
+    color: white;
+    font-weight: 700;
+    border: 1px solid rgb(255, 110, 20);
+    border-radius: 1.5rem;
+    width: 12rem;
+    height: 3rem;
+    margin: 3rem;
+    margin-left: 4rem;
+    text-align: center;
+}
+.buttoncsspage1{
+    background-color:rgb(255, 110, 20);
+    color: white;
+    font-weight: 700;
+    border: 1px solid rgb(255, 110, 20);
+    border-radius: 1.5rem;
+    width: 10rem;
+    height: 3rem;
+    margin: 3rem;
+    margin-left: 4rem;
+    text-align: center;
+}
+.headingpage1csshead{
+    margin-top: 4rem;
+    margin-left: 5rem;
+    font-size: 4rem;
+    font-weight: 450;
+    line-height: 1;
+}
+.headingpage1csshead1{
+    margin-left: 5rem;
+    font-size: 2.9rem;
+    font-weight: 500;
+    
+    color: rgb(255, 110, 20);
+    line-height: 1.1;
+}
+.headingpage1csshead{
+    padding-bottom: 0vh;
+}
+.headingpage1csshead2{
+    margin-left: 5rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.pic4css{
+    height: 5rem;
+    margin-top: 2.5rem;
+}

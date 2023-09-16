@@ -1,0 +1,44 @@
+.page4cssh2{
+    margin-top: 3rem;
+    
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+}
+.cardcsspage4{
+    width: 35rem;
+    height: 25rem;
+}
+.cardcsspage44{
+    width: 27rem;
+    height: 20rem;
+    border: 0.1rem solid rgb(243, 240, 240);
+    background-color:rgb(243, 240, 240);
+    float: left;
+    margin-left: 2rem;
+}
+.arrowdivcsspage4{
+    width: 2rem;
+    height: 2rem;
+    margin: 1rem;
+}
+.divcsspage456{
+    font-weight: 550;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.imgcolpage4container{
+    border: 1.7rem solid silver;
+    border-radius: 2rem;
+    margin-top: 1rem;
+    
+}
+.page4h5siddharth{
+    margin-top: 1rem;
+    color: rgb(255, 110, 20);
+    font-weight: 650;
+}
+.page4h5siddharth1{
+    font-weight: 600;
+    color: silver;
+}

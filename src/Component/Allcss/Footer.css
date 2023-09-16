@@ -1,0 +1,57 @@
+.footer{
+    border: 0.1rem solid rgb(54, 54, 54);
+    margin-top: 8rem;
+    height: 35rem;
+    width: 100%;
+    background-color: rgb(54, 54, 54);
+}
+.picfooter1{
+    width: 7rem;
+    height: 6.5rem;
+    margin: 4rem;
+}
+.footerpcss1{
+    font-size: 1.3rem;
+    margin-left: 4rem;
+    line-height: 1.5rem;
+    color: white;
+}
+.footerpiccss2{
+    color: rgb(255, 110, 20);
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-left: 4rem;
+    margin-top: 3rem;
+}
+.footerpic5 {
+    margin-left: 4rem;
+    line-height: 0.5rem;
+    font-size: 1rem;
+    color: white;
+}
+.divfooter0{
+    color: rgb(255, 110, 20);
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-top: 6rem;
+line-height: 1rem;
+}
+.divfooterp01{
+    font-size: 1rem;
+    color: white;
+    line-height: 0.2rem;
+    margin-left: 1rem;
+}
+.divfooter023{
+    
+    color: rgb(255, 110, 20);
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+line-height: 1rem;
+}
+.iconcssfooter{
+    color: white;
+    margin-left:1.5rem;
+}
